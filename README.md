@@ -3,4 +3,4 @@ An Attention-Based Deep Learning Model with Transition and Dynamic Contexts for 
 
 *(Detailed explanation will be given after the paper is published)*
 
-This paper is derived from POINT-OF-INTEREST RECOMMENDATION SYSTEMS IN LOCATION-BASED SOCIAL NETWORKS  master thesis published by **Orhun Vural at The University of Alabama at Birmingham - USA in 2021.
+This paper is derived from POINT-OF-INTEREST RECOMMENDATION SYSTEMS IN LOCATION-BASED SOCIAL NETWORKS  master thesis published by **Orhun Vural** at The University of Alabama at Birmingham - USA in 2021.
